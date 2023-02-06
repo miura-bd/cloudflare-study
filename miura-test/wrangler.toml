@@ -1,0 +1,6 @@
+name = "miura-test"
+main = "src/index.ts"
+compatibility_date = "2023-02-06"
+kv_namespaces = [
+    { binding = "TODO_WRANGLER", id = "30971639f96b41938e69d693d4d2eafe" }
+]
